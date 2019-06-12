@@ -26,7 +26,7 @@ Interactive Visualization of Cellular Signal Strength on the Planet.
 
 ## [Online Demo](http://www.higis.org.cn:8080/CellTowerDEMO/)
 
-![fig](./figures/fig.JPG)
+![fig](./figures/fig1.JPG)
 
 
 
