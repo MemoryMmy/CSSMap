@@ -5,14 +5,14 @@ Interactive Visualization of Cellular Signal Strength on the Planet.
 
 ## Setting
 
-***Tab1. Datasets: Basestations in the dataset provided by [OpenCelliD](https://www.opencellid.org)***
+***Tab1. Datasets: Base stations in the dataset provided by [OpenCelliD](https://www.opencellid.org)***
 
 | Basestation Type                                   | Count      |
 | -------------------------------------------------- | ---------- |
-| Code Division Multiple Access (CDMA)               | 556,727    |
-| Global System for Mobile Communications (GSM)      | 9,648,010  |
-| Long-Term Evolution (LTE)                          | 10,293,681 |
-| Universal Mobile Telecommunications Service (UMTS) | 20,221,061 |
+| Code Division Multiple Access (CDMA)               | 554,364    |
+| Global System for Mobile Communications (GSM)      | 9,609,750  |
+| Long-Term Evolution (LTE)                          | 10,292,460 |
+| Universal Mobile Telecommunications Service (UMTS) | 20,216,722 |
 
 ***Tab2.  Demo Environment***
 
