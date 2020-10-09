@@ -29,7 +29,9 @@ Interactive Visualization of Cellular Signal Strength on the Planet.
 ![fig](./figures/fig1.JPG)
 
 
+## Citation
 
+MA Mengyu, CHEN Luo, OUYANG Xue, et al. Efficient Interactive Global Cellular Signal Strength Visualization[J], IEEE Transactions on Big Data, 2020. DOI: 10.1109/TBDATA.2020.3029559
 
 
 ## Contact:
